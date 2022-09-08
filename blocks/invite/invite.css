@@ -1,0 +1,39 @@
+.invite {
+  justify-content: center;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding-top: 30px;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  width: 90%;
+  text-align: center;
+}
+
+.invite p {
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 1.45;
+  font-family: 'Arial';
+  color: #666666;
+  max-width: 680px;
+}
+
+@media screen and (min-width: 768px) {
+  .invite p {
+    font-size: 18px;
+    line-height: 1.45;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .invite p {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .invite p {
+    font-size: 22px;
+    line-height: 1.55;
+  }
+}

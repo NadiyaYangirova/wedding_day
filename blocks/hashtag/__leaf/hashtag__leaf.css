@@ -1,0 +1,5 @@
+.hashtag__leaf {
+  width: 50%;
+  z-index: 2;
+  overflow: hidden;
+}

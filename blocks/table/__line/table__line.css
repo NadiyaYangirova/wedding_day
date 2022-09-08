@@ -1,0 +1,23 @@
+.table__line {
+  width: 2px;
+  position: absolute;
+  top: 0;
+  left: 41px;
+  right: 0;
+  bottom: 0;
+  background: #d4d4d4;
+  margin-top: 90px;
+}
+
+@media screen and (min-width: 768px) {
+  .table__line {
+    margin-top: 100px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .table__line {
+    margin-top: 110px;
+  }
+}
+

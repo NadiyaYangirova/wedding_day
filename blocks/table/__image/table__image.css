@@ -1,0 +1,9 @@
+.table__image {
+  max-width: 84px;
+  max-height: 84px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 2;
+}

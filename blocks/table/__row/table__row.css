@@ -1,0 +1,8 @@
+.table__row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,7 @@
+.table__info {
+  display: table-cell;
+  padding-left: 20px;
+  padding-bottom: 70px;
+  text-align: left;
+  box-sizing: content-box;
+}

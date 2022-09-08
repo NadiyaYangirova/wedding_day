@@ -1,0 +1,9 @@
+.hashtag {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  overflow: hidden;
+  box-sizing: border-box;
+  max-width: 200px;
+  margin: 0 auto;
+}

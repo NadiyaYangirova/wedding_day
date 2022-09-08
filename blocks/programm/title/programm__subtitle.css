@@ -1,0 +1,13 @@
+.programm__subtitle {
+  font-size: 14px;
+  line-height: 1.4;
+  font-family: 'Arial';
+  color: #666666;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .programm__subtitle {
+    font-size: 20px;
+  }
+}

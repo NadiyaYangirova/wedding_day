@@ -1,0 +1,10 @@
+.dress-code__title {
+  border-color: transparent;
+  border-style: solid;
+  display: table-cell;
+  vertical-align: middle;
+  background-position: center;
+  margin: 0 auto;
+  width: 100%;
+  z-index: 2;
+}

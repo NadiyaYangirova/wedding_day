@@ -1,0 +1,8 @@
+.footer__paragraph {
+  font-size: 20px;
+  line-height: 32px;
+  font-family: 'Arial';
+  color: #666666;
+  margin: 30px auto;
+  max-width: 90%;
+}

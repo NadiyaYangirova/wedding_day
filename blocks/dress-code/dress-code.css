@@ -1,0 +1,8 @@
+.dress-code {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  overflow: hidden;
+}

@@ -1,0 +1,25 @@
+.header__title {
+  padding: 0;
+  z-index: 2;
+  max-width: 80%;
+  animation: scale_title 1.5s 2 ease-in-out running alternate;
+}
+
+@keyframes scale_title {
+    from {
+        transform: scale(1);
+        -webkit-transform: scale(1.0);
+    }
+    to {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .header__title {
+    max-width: 826px;
+  }
+}
+

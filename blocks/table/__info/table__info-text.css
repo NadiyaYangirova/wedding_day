@@ -1,0 +1,14 @@
+.table__info-text {
+  color: #666666;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: 'Ubuntu';
+  text-align: left;
+}
+
+@media screen and (min-width: 1024px) {
+  .table__info-text {
+    font-size: 18px;
+    line-height: 1.3;
+  }
+}

@@ -1,0 +1,9 @@
+.hashtag__title {
+  max-width: 100%;
+  height: 100%;
+  position: relative;
+  background-position: center center;
+  border-color: transparent;
+  border-style: solid;
+  box-sizing: border-box;
+}
